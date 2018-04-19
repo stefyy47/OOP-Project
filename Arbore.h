@@ -16,7 +16,7 @@ public:
     void Stergere();
     int InaltimeArbore(Node*);
     int FrunzeArbore(Node*, int);
-    void Parcurgere(Arbore&,Node*);//Folosit doar pentru operatorul+ si operatorul=
+    void Parcurgere(Arbore&,Node*);//Folosit doar pentru operatorul+
     void Parcurgere1(Arbore&,Node*,Node*);//Folosit doar pentru operatorul*
     void Parcurgere2(Arbore&,Node*,Node*);//Folosit doar pentru operatorul-
     void Parcurgere3(Node*); //Folosit doar pentru destructor(functia Stergere)
