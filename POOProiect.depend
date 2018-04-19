@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1524171730 source:d:\probleme\pooproiect\main.cpp
+	<iostream>
+	"Arbore.h"
+
+1524086599 source:d:\probleme\pooproiect\node.cpp
+	"Node.h"
+
+1524086599 d:\probleme\pooproiect\node.h
+	<iostream>
+
+1524172029 source:d:\probleme\pooproiect\arbore.cpp
+	"Arbore.h"
+
+1524172029 d:\probleme\pooproiect\arbore.h
+	<iostream>
+	"Node.h"
+
